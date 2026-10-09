@@ -1,0 +1,11 @@
+{
+  "name": "StudyNote AI",
+  "short_name": "StudyNote",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3949ab",
+  "description": "Scan handwritten notes and generate study questions",
+  "icons": []
+}
